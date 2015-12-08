@@ -1,0 +1,28 @@
+name: Jo tester
+favicon: null
+layout_spectrum: 0.18296981719322503
+typography_spectrum: 0.3882123657967895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6086576541420072
+  lightness: 0.8340710350312293
+  saturation: 0.9603044781833887
+  rhythmicContrast: 0.7328931100200862
+purpose: []
